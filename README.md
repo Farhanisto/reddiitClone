@@ -1,2 +1,6 @@
 # reddiitClone
-Typescript, react, graphql, postgres
+## Stack
+  Typescript
+  react
+  graphql/apollo
+  postgres
