@@ -1,6 +1,11 @@
 # reddiitClone
 ## Stack
-  Typescript
-  react
-  graphql/apollo
-  postgres
+  - Typescript
+  - React
+  - graphql
+  - postgres
+  - apollo/urql
+  - Next.js
+  - TypeORM
+  - TypeGraphQL
+  
